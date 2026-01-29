@@ -2,7 +2,7 @@
 
 A comprehensive data analytics project combining business intelligence dashboards with machine learning forecasting to analyze retail sales performance and predict future trends.
 
-## 🎯 Project Overview
+## Project Overview
 
 This project demonstrates end-to-end data analytics capabilities, from exploratory data analysis to interactive dashboard creation and predictive modeling. Using 4 years of retail sales data (2014-2017), I built executive dashboards in Tableau and developed a Prophet-based forecasting model to predict 2018 sales performance.
 
@@ -10,7 +10,7 @@ This project demonstrates end-to-end data analytics capabilities, from explorato
 
 ---
 
-## 📊 Key Insights & Findings
+## Key Insights & Findings
 
 ### Business Performance
 - **Total Sales (2014-2017):** $2.3M
@@ -34,7 +34,7 @@ This project demonstrates end-to-end data analytics capabilities, from explorato
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 **Data Analysis & Modeling:**
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -53,7 +53,7 @@ This project demonstrates end-to-end data analytics capabilities, from explorato
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Retail_Sales_forecasting/
@@ -74,7 +74,7 @@ Retail_Sales_forecasting/
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 ### Dashboard 1: Executive Summary
 - **KPI Cards:** Total Sales, Profit, Margin, Orders at-a-glance
@@ -91,7 +91,7 @@ Retail_Sales_forecasting/
 
 ---
 
-## 🔍 Analytical Approach
+## Analytical Approach
 
 ### 1. Exploratory Data Analysis
 - Analyzed 9,994 transactions across 4 years
@@ -120,7 +120,7 @@ Retail_Sales_forecasting/
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, key recommendations include:
 
@@ -133,7 +133,7 @@ Based on the analysis, key recommendations include:
 
 ---
 
-## 🚀 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - **Data Analysis:** EDA, statistical analysis, trend identification
 - **Data Visualization:** Tableau dashboard design, storytelling with data
@@ -144,7 +144,7 @@ Based on the analysis, key recommendations include:
 
 ---
 
-## 📊 Sample Visualizations
+## Sample Visualizations
 
 ### Monthly Sales Trend
 Shows 4-year historical performance with clear seasonality and growth trend.
@@ -157,15 +157,7 @@ Prophet model projection showing continued growth with seasonal patterns.
 
 ---
 
-## 🔗 Links & Resources
-
-- **Live Dashboard:** [Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)
-- **GitHub Repository:** [View Code](YOUR_GITHUB_REPO_LINK_HERE)
-- **LinkedIn:** [Your Profile](YOUR_LINKEDIN_LINK_HERE)
-
----
-
-## 📝 How to Run This Project
+## How to Run This Project
 
 ### Prerequisites
 ```bash
@@ -209,15 +201,13 @@ jupyter notebook
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Amrita Thapa**
 - Email: AmritaThapa2626@gmail.com
-- GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Dataset: Sample Superstore dataset (Kaggle/Tableau)
 - Forecasting: Facebook Prophet library
@@ -225,10 +215,11 @@ jupyter notebook
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available for educational and portfolio purposes.
 
 ---
+
 
 *This project was created to demonstrate data analytics, business intelligence, and machine learning forecasting capabilities for data analyst and data science roles.*
