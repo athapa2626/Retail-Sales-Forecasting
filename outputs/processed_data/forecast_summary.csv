@@ -1,0 +1,10 @@
+Metric,Value
+Historical Total Sales (2014-2017),"$2,297,200.86"
+Forecasted Total Sales (2018),"$866,891.88"
+Year-over-Year Growth,18.2%
+Average Monthly Sales (Historical),"$47,858.35"
+Average Monthly Sales (Forecast),"$72,240.99"
+Highest Forecast Month,"November: $126,282.58"
+Lowest Forecast Month,"February: $24,740.47"
+Model MAE (Test Set),"$2,286.94"
+Model RMSE (Test Set),"$3,154.30"
